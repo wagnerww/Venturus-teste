@@ -1,4 +1,4 @@
-`...::: Projeto criado por ®WW(Wagner Ricardo Wagner) | wagnerricardonet@gmail.com :::..`
+`...::: Projeto criado por Wagner Ricardo Wagner | wagnerricardonet@gmail.com :::..`
 
 ## Venturus Test
 
@@ -18,5 +18,6 @@
 - Redux Sagas;
 - Redux-Sauce;
 - Immutable;
+- React-router-dom;
 - Reactotron, para debug;
 - Font-Awesome;
