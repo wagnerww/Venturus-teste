@@ -8,7 +8,7 @@
 
 - http://localhost:3000
 
-#### Tecnologias utilziadas:
+#### Tecnologias utilizadas:
 
 - Styled-Components;
 - Formik;
